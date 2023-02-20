@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web231 lesson </title>
+    <link rel="stylesheet" href="style.css"
+</head>   
+<body>
+  <div class="container">
+    <div class="navbar">
+    <img src="C:\Users\user\Desktop\web231\logo-web-design-business-png-favpng-iGvrjpRwy8Ln86XmUPfa1dYTm.jpg" class="logo">
+    <nav>
+      <ul>
+        <li><a href="">Home</a></li>
+        <li><a href="">About</a></li>
+        <li><a href="">Collections</a></li>
+        <li><a href="">Category</a></li>
+      </ul>
+    </nav>
+    <img src="C:\Users\user\Desktop\web231\Online-Shopping-Cart-PNG-Background-Image.png" class="cart">
+  </div>
+
+  <div class="content">
+    <a href="" class="btn">2020 collections</a>
+    <h1>You should always <br>feel pretty</h1>
+    <p>Clothes that are sure to heat up your winter </p>
+
+    <div class="arrow-icons">
+    <img src="C:\Users\user\Desktop\web231\back-arrow-vector-5.png"
+ </div>
+
+</body>
+</html>
